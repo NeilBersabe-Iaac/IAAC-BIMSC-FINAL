@@ -37,12 +37,13 @@ Neil John Bersabe
 2. [Data Flow Diagram](docs/DataFlow.png)
 
 # _CREDITS
-Project by
+Project by:  
 Neil John Bersabe
 
-Faculty: 
-David Andres Leon
-Hesham Shawqy
+Faculty:  
+David Andres Leon  
+Hesham Shawqy  
+
 
 BIM & Smart Construction  
 Cloud Based Data Management  
