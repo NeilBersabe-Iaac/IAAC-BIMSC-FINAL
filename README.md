@@ -1,7 +1,7 @@
 # IAAC-BIMSC-FINAL
 Final Landing Page for BIMSC_Data Management
 
-![AAA](https://github.com/NeilBersabe-Iaac/IAAC-BIMSC-FINAL/images/Finals.jpg?raw=true)
+![AAA](/images/Finals.jpg?raw=true)
 
 
 Solihiya is a parametric pavillion configurator based from the philippine sunburst weaving pattern of the same name. The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day.
@@ -51,7 +51,7 @@ It is also possible to download the geometry as a mesh geometry in .obj format
 # _REPOLINKS
 - [Link to my Rhino.compute repo](https://github.com/NeilBersabe-Iaac/compute.rhino3d.appserver/tree/main/src/examples/solihiya00_v3)
 - [Link to the Heroku App](https://bimsc22-neiljohnbersabe.herokuapp.com/examples/solihiya00_v3/)
-- [Link to Github Pages (Landing Page)]
+- [Link to Github Pages (Landing Page)](https://neilbersabe-iaac.github.io/IAAC-BIMSC-FINAL/)
 
 
 # _DATA FLOW DIAGRAM
