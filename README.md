@@ -1,7 +1,7 @@
 # IAAC-BIMSC-FINAL
 Final Landing Page for BIMSC_Data Management
 
-![alt text](https://github.com/NeilBersabe-Iaac/IAAC-BIMSC-FINAL/images/Finals.jpg?raw=true)
+![](https://github.com/NeilBersabe-Iaac/IAAC-BIMSC-FINAL/images/Finals.jpg?raw=true)
 
 
 Solihiya is a parametric pavillion configurator based from the philippine sunburst weaving pattern of the same name. The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day.
