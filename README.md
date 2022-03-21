@@ -14,7 +14,7 @@ The Webapp is
 PARAMETERS:  
 Format: (ParamName) - (Name),(Description); (DomainValueMin, DomainValueMax)  
 
-zHeight - Moves the height of the pavillion; (0,250)  
+**zHeight** - Moves the height of the pavillion; (0,250)  
 solAngle - solar angle, Move the altitude angle of the sun; (1,179)  
 toD - time of day, Moves the sun along the curve path; (1,9)  
 smlOpening - Small opening, Modifies the size of the small opening of the pavilion; (0,45)  
