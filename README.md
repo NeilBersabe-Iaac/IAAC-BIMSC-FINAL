@@ -1,5 +1,5 @@
-# SOLIHIYA
-IAAC-MACAD-BIMSC.DataMgt-FINAL PROJECT. Neil John Bersabe
+# S O L I H I Y A
+//Iaac-Macad-Bimsc.DataMgt-FinalProject.Neil John Bersabe
 
 
 ![](/images/Finals.jpg?raw=true)
@@ -9,7 +9,8 @@ Solihiya is a parametric pavilion configurator based from the Philippine sunburs
 The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day. A color gradient is applied to the mesh edges of the pavilion corresponding to the distance from the sun.
 
 ## _INSTRUCTIONS
-The Webapp is
+Play around the configuration of the pavilion as desired.  
+You can download the 3dm geometries with the download button
 
 **PARAMETERS:**  
 Format: (ParamName) - (Name),(Description); (DomainValueMin, DomainValueMax)  
