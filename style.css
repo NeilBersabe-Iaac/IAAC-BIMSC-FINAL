@@ -32,7 +32,7 @@ body{
 .grid-column2{
     display:grid;
     grid-template-columns: 60% 40%;
-    grid-template-rows:30vh 35vh 35vh;
+    grid-template-rows:20vh 40vh 40vh;
     background-color: #333333;
     grid-gap: 0px;
     padding: 0px;
@@ -130,21 +130,24 @@ body{
 .grid-itemA:hover .imgTextA1 {
     opacity: 1;
   }
-.grid-itemC:hover .imgItem2a {
-    opacity: 1;
-  }
-.grid-itemC:hover .imgTextC {
-    opacity: 0;
-    transition: .5s ease;
-  }
-.grid-itemD:hover .imgItem2d {
-    opacity: 1;
-  }
-.grid-itemD:hover .imgTextD {
-    opacity: 0;
-    transition: .5s ease;
-  }
-
+  .grid-itemC:hover .imgItem2a {
+      opacity: 1;
+    }
+    .grid-itemC:hover .imgTextC {
+        opacity: 0;
+        transition: .5s ease;
+    }
+    .grid-itemD:hover .imgItem2d {
+        opacity: 1;
+    }
+    .grid-itemD:hover .imgTextD {
+        opacity: 0;
+        transition: .5s ease;
+    }
+    .grid-itemA:hover .imgTextD1 {
+        opacity: 1;
+      }
+    
 
 
 /* Image TEXTS */
@@ -198,14 +201,7 @@ body{
     font-family: Raj;
     color: darkorange;
 }
-.imgTextD{
-    position: absolute;
-    top: 80%;
-    left: 5%;
-    font-size: 30px;
-    font-family: Raj;
-    color: #fff;
-}
+
 .imgTextE{
     position: absolute;
     top: 80%;
