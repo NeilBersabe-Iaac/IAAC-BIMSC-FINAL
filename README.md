@@ -1,7 +1,12 @@
 # IAAC-BIMSC-FINAL
 Final Landing Page for BIMSC_Data Management
 
-Solihiya is a parametric pavillion configurator based from the philippine sunburst weaving pattern of the same name. The aim of the configurator is to the give users insight on different shadow and pattern behaviours when subjected to
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+Solihiya is a parametric pavillion configurator based from the philippine sunburst weaving pattern of the same name. The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day.
+
+
 
 Links Link to Pages:
 
@@ -26,4 +31,24 @@ BIM & Smart Construction
 Cloud Based Data Management
 Master in Advanced Computation for Architecture and Design
 
+
+Neil John Bersabe
+
+# _PROJECT BRIEF
+- SOLIHIYA
+- The browser-based configurator is based from the Filipino traditional weaving pattern called solihiya. 
+The configurator defines a pavilion with varying openings that responds to light and solar angles
+Solar Directions can be controlled by simple parameter sliders and serves as an attractor for pattern opening variations.
+A color gradient is applied to mesh edges corresponding to the variety of attractor distances.
+There are also parameter sliders that control height, and size of the smallest and largest openings
+It is also possible to download the geometry as a mesh geometry in .obj format
+
+# _PLUGINS
+- Kangaroo2 for physics simulation
+- Weaverbird
+- A single pufferfish node Mesh Flip (flip)
+
+# _DATA FLOW DIAGRAM
+1. [Inputs & Outputs](docs/InputOutput.jpg)
+2. [Data Flow Diagram](docs/DataFlow.png)
 
