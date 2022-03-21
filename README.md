@@ -1,10 +1,12 @@
 # SOLIHIYA
-IAAC-MACAD-BIMSC.DataMgt-FINAL PROJECT
+IAAC-MACAD-BIMSC.DataMgt-FINAL PROJECT. Neil John Bersabe
+
 
 ![](/images/Finals.jpg?raw=true)
 
 
-Solihiya is a parametric pavillion configurator based from the philippine sunburst weaving pattern of the same name. The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day.
+Solihiya is a parametric pavillion configurator based from the Philippine sunburst weaving pattern of the same name. 
+The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day.
 
 
 
