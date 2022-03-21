@@ -4,9 +4,9 @@ IAAC-MACAD-BIMSC.DataMgt-FINAL PROJECT. Neil John Bersabe
 
 ![](/images/Finals.jpg?raw=true)
 
-
+# _PROJECT DESCRIPTION
 Solihiya is a parametric pavillion configurator based from the Philippine sunburst weaving pattern of the same name. 
-The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day.
+The aim of the configurator is to the give users feedback on implications of different parametric configurations to the pavilion like height, openings, and solar parameters. This also gives users insight on different shadow patterns and behaviours depending on vectors got from solar angles and times of day. A color gradient is applied to the mesh edges of the pavillion corresponding to the distance from the sun.
 
 
 
@@ -22,33 +22,9 @@ the course
 faculty
 master credits
 
-student project by
-Neil John Bersabe
-
-Faculty: 
-David Andres Leon
-Hesham Shawqy
-
-BIM & Smart Construction
-Cloud Based Data Management
-Master in Advanced Computation for Architecture and Design
-
 
 Neil John Bersabe
 
-# _PROJECT BRIEF
-- SOLIHIYA
-- The browser-based configurator is based from the Filipino traditional weaving pattern called solihiya. 
-The configurator defines a pavilion with varying openings that responds to light and solar angles
-Solar Directions can be controlled by simple parameter sliders and serves as an attractor for pattern opening variations.
-A color gradient is applied to mesh edges corresponding to the variety of attractor distances.
-There are also parameter sliders that control height, and size of the smallest and largest openings
-It is also possible to download the geometry as a mesh geometry in .obj format
-
-# _PLUGINS
-- Kangaroo2 for physics simulation
-- Weaverbird
-- A single pufferfish node Mesh Flip (flip)
 
 # _REPOLINKS
 - [Link to my Rhino.compute repo](https://github.com/NeilBersabe-Iaac/compute.rhino3d.appserver/tree/main/src/examples/solihiya00_v3)
@@ -59,4 +35,19 @@ It is also possible to download the geometry as a mesh geometry in .obj format
 # _DATA FLOW DIAGRAM
 1. [Inputs & Outputs](docs/InputOutput.jpg)
 2. [Data Flow Diagram](docs/DataFlow.png)
+
+# _CREDITS
+Project by
+Neil John Bersabe
+
+Faculty: 
+David Andres Leon
+Hesham Shawqy
+
+BIM & Smart Construction
+Cloud Based Data Management
+Master in Advanced Computation for Architecture and Design
+IAAC - 2022
+
+
 
