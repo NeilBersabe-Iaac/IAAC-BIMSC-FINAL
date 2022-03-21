@@ -44,9 +44,9 @@ Faculty:
 David Andres Leon
 Hesham Shawqy
 
-BIM & Smart Construction
-Cloud Based Data Management
-Master in Advanced Computation for Architecture and Design
+BIM & Smart Construction  
+Cloud Based Data Management  
+Master in Advanced Computation for Architecture and Design  
 IAAC - 2022
 
 
