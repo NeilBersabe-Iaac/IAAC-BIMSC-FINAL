@@ -20,7 +20,7 @@ body{
 /*--------------------------*/
 .grid-container{
     display:grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 30% 70%;
     /* grid-template-rows: 30% 30% 30% ; */
     grid-gap: 1px;
 }
@@ -32,7 +32,7 @@ body{
 .grid-column2{
     display:grid;
     grid-template-columns: 60% 40%;
-    grid-template-rows:33vh 33vh 34vh;
+    grid-template-rows:30vh 35vh 35vh;
     background-color: #333333;
     grid-gap: 0px;
     padding: 0px;
@@ -83,6 +83,10 @@ body{
     opacity: .2;
     transition: .5s ease;
 }
+.imgItem2d{
+    opacity: .75;
+    transition: .5s ease;
+}
 .imgTextA{
     object-fit:contain;
     object-position: ;
@@ -92,6 +96,13 @@ body{
     backface-visibility: hidden;    
 }
 .imgTextA1{
+    object-fit:contain;
+    object-position: ;
+    Width: 100%;
+    opacity: 0;     
+    
+}
+.imgTextD1{
     object-fit:contain;
     object-position: ;
     Width: 100%;
@@ -147,6 +158,23 @@ body{
     color: darkorange;
 }
 .imgTextA1{
+    position:absolute;
+    top: 80%;
+    left: 5%;
+    font-size: 30px;
+    font-family: Raj;
+    color:  rgb(255, 255, 255);
+}
+.imgTextD{
+    position:absolute;
+    top: 80%;
+    left: 5%;
+    font-size: 30px;
+    font-family: Raj;
+    font-style: ;
+    color: darkorange;
+}
+.imgTextD1{
     position:absolute;
     top: 80%;
     left: 5%;
