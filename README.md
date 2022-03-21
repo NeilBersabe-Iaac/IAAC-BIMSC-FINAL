@@ -11,7 +11,7 @@ The aim of the configurator is to the give users feedback on implications of dif
 ## _INSTRUCTIONS
 The Webapp is
 
-**PARAMETERS:**
+**PARAMETERS:**  
 Format: (ParamName) - (Name),(Description); (DomainValueMin, DomainValueMax)  
 
 **zHeight** - Moves the height of the pavillion; (0,250)  
@@ -33,11 +33,11 @@ Format: (ParamName) - (Name),(Description); (DomainValueMin, DomainValueMax)
 **Show Shadow Analysis** - Shows the shadows cast on the plane as curves; (boolean)  
 
 **ANALYTICS:**  
-Mesh Area = Shows the total surface area covered by the pavilion  
-Plot Area = Shows the total area of the concrete plot under the pavilion as a grey area  
-Land Area = Shows the total Land Area of the mini planet  
-Land Diameter = Shows the Diameter of the planet  
-Shadow Area = Calculates the area of the shadow casted. You must run Shadow Analysis first to calculate  
+**Mesh Area** = Shows the total surface area covered by the pavilion  
+**Plot Area** = Shows the total area of the concrete plot under the pavilion as a grey area  
+**Land Area** = Shows the total Land Area of the mini planet  
+**Land Diameter** = Shows the Diameter of the planet  
+**Shadow Area** = Calculates the area of the shadow casted. You must run Shadow Analysis first to calculate  
 
 
 
