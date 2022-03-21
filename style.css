@@ -37,9 +37,9 @@ body{
     grid-gap: 0px;
     padding: 0px;
     grid-template-areas: 
-    "itemA itemC"
+    "itemA itemA"
     "itemB itemB"
-    "itemB itemB";
+    "itemD itemD";
 }
 .grid-itemA{
     grid-area: itemA;
@@ -123,6 +123,13 @@ body{
     opacity: 1;
   }
 .grid-itemC:hover .imgTextC {
+    opacity: 0;
+    transition: .5s ease;
+  }
+.grid-itemD:hover .imgItem2d {
+    opacity: 1;
+  }
+.grid-itemD:hover .imgTextD {
     opacity: 0;
     transition: .5s ease;
   }
